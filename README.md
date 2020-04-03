@@ -5,9 +5,9 @@
 * [Proposal](https://docs.google.com/document/d/1C1oMw4VatlqUhN8V-QtOtcCz5Sc7TUbHh1xVdcm-4J8/)
 
 ## Test to validate skills:
-* Create a script that explores all the features in a polygon layer and return a sumatory of all of the areas together.
-* Add functionality to the previous script: create a new layer with the polygons that are bigger than a given value.
-* Add functionality to the previous script: Implement this script in the geoprocess framework.
+* [Create a script that explores all the features in a polygon layer and return a sumatory of all of the areas together.](https://github.com/Maureque/GSoC-2020/blob/master/sumatoriaAreas_1.py)
+* [Add functionality to the previous script: create a new layer with the polygons that are bigger than a given value.](https://github.com/Maureque/GSoC-2020/blob/master/layerPolygonsbiggerthan.py)
+* [Add functionality to the previous script: Implement this script in the geoprocess framework.](https://github.com/Maureque/GSoC-2020/blob/master/testEntrega.py)
 
 ## Getting started
 
